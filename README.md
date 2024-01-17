@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Jitendra👦,
+A Full Stack Web developer🎯 🎨 from India.
 
-<!--
-**Jitendra1295/Jitendra1295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Full Stack Developer
+- 📚 What do I believe? Jack of all, Master of some.
 
-Here are some ideas to get you started:
+**Languages:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java"></code>
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/jitendra-patel-637362a5/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jitendra%20patel-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:pateljitendra055@gmail.com"><img alt="Email" src="https://img.shields.io/badge/pateljitendra055@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+ <!--⭐️ From [Jitendra Patel](https://github.com/Jitendra1295)-->
