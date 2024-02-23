@@ -1,5 +1,5 @@
 ### Hi there, I'm Jitendra👦,
-A Full Stack Web developer🎯 🎨 from India.
+A Full Stack Web developer🎯 from India.
 
 - 👨‍💻 Full Stack Developer
 - 📚 What do I believe? Jack of all, Master of some.
